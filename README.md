@@ -1,7 +1,7 @@
 
 
 <header>
- <img align='center' width='200px' height='200px' src='tenis-player-color.png'>
+ <img align='left' width='200px' height='200px' src='tenis-player-color.png'>
 </header>
 
  <h1>Hi there , I'm Javi Gomez👋</h1>
@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/javier-g%C3%B3mez-jimenez/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 <p>
-  <img 'border-radius'='50%' width="150" align='left' src="Captura de pantalla 2021-02-18 a las 17.45.53.png">
+  <img width="150" align='left' src="Captura de pantalla 2021-02-18 a las 17.45.53.png">
 </p>
 
 ### Things I code with
