@@ -40,9 +40,9 @@
 
 <p>💻  :tennis:  :video_game: </p>
 
-I am 28 years old, I am a fullstack developer with a background in systems administrator. On a personal level, I am a person who loves all racquet sports (tennis and paddle tennis) and video games.
+<p>I am 28 years old, I am a fullstack developer with a background in systems administrator. On a personal level, I am a person who loves all racquet sports (tennis and paddle tennis) and video games.
 
-Always eager to continue learning and informed of the news about web development.
+Always eager to continue learning and informed of the news about web development.</p>
 
 
 
