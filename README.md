@@ -5,19 +5,19 @@
 </header>
 
  <h1>Hi there , I'm Javi Gomez👋</h1>
-  <br/>
+
   <a href="mailto:projav23@gmail.com?subject=[GitHub]%20Contact&body=Hello%20Javi%2C%0A%0A..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://instagram.com/projav23"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/javier-g%C3%B3mez-jimenez/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-<p>
-  <img width="150" align='left' src="Captura de pantalla 2021-02-18 a las 17.45.53.png">
-</p>
+
 
 
 
 ### Who I'am?🧐
-<p> <img  align='left' width='200px' height='200px' src='tenis-player-color.png'> </p>
+<p>
+  <img width="150" align='left' src="Captura de pantalla 2021-02-18 a las 17.45.53.png">
+</p>
 
 
 <p>I am 28 years old, I am a fullstack developer with a background in systems administrator. On a personal level, I am a person who loves all racquet sports (tennis and paddle tennis) and video games.
