@@ -33,20 +33,24 @@
 
 ### Who I'am?🧐
 
-💻 :tennis:
+💻 :tennis: :video_game:
+
+I am 28 years old, I am a fullstack developer with a background in systems administrator. On a personal level, I am a person who loves all racquet sports (tennis and paddle tennis) and video games.
+
+Always eager to continue learning and informed of the news about web development.
 
 
 ### Programming Knowledge
 
 ```js
 const webDevelopment = {
-code:[JavaScript,CSS,HTML 5,React],
-tools:[NodeJS,Express,MongoDB]
+ code:[JavaScript,CSS,HTML 5,React],
+ tools:[NodeJS,Express,MongoDB]
 }
 ```
 
 
 
 ### Cool Projects
-[👉 Space invaders Star Wars Theme](https://www.paddlesurfhinchable.es)<br>
+[👉 Space invaders Star Wars Theme](https://github.com/projav23/webproject)<br>
 [👉 App projects with HBS about tennis & paddle matches](https://together-ironhack.herokuapp.com/)
