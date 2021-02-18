@@ -42,9 +42,13 @@
 
 <p>I am 28 years old, I am a fullstack developer with a background in systems administrator. On a personal level, I am a person who loves all racquet sports (tennis and paddle tennis) and video games.
 
-Always eager to continue learning and informed of the news about web development.</p>
+Always eager to continue learning and informed of the news about web development.
+</p>
 
-
+<br>
+<br>
+<br>
+<br>
 
 ### Programming Knowledge
 
