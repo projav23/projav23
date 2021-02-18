@@ -9,9 +9,7 @@
   <a href="https://instagram.com/projav23"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/javier-g%C3%B3mez-jimenez/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-<p>
-  <img width="150" align='left' src="https://media-exp1.licdn.com/dms/image/C4D03AQGweRqR3iUMvQ/profile-displayphoto-shrink_800_800/0/1584267178282?e=1619049600&v=beta&t=U3cKmYbny8TH-zsySMLu0bV3DEL2bZyNFlUnSfeyA-o">
-</p>
+
 
 ### Things I code with
 
