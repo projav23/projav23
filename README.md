@@ -14,6 +14,23 @@
   <img width="150" align='left' src="Captura de pantalla 2021-02-18 a las 17.45.53.png">
 </p>
 
+
+
+### Who I'am?🧐
+<p> <img  align='left' width='200px' height='200px' src='tenis-player-color.png'> </p>
+
+
+<p>I am 28 years old, I am a fullstack developer with a background in systems administrator. On a personal level, I am a person who loves all racquet sports (tennis and paddle tennis) and video games.
+
+Always eager to continue learning and informed of the news about web development.
+</p>
+
+<br>
+<br>
+<br>
+<br>
+
+
 ### Things I code with
 
 <p>
@@ -33,21 +50,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
-
-### Who I'am?🧐
-<p> <img  align='left' width='200px' height='200px' src='tenis-player-color.png'> </p>
-
-
-<p>I am 28 years old, I am a fullstack developer with a background in systems administrator. On a personal level, I am a person who loves all racquet sports (tennis and paddle tennis) and video games.
-
-Always eager to continue learning and informed of the news about web development.
-</p>
-
-<br>
-<br>
-<br>
-<br>
 
 ### Programming Knowledge
 
