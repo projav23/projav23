@@ -1,7 +1,7 @@
 
 
 <header>
- <img src='tenis-player-color.jpg'>
+ <img width='100%' src='tenis-player-color.jpg'>
 </header>
 
  <h1>Hi there , I'm Javi Gomez👋</h1>
