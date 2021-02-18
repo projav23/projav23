@@ -36,6 +36,7 @@
 
 
 ### Who I'am?🧐
+<p> <img  align='left' width='200px' height='200px' src='tenis-player-color.png'> </p>
 
 <p>💻  :tennis:  :video_game: </p>
 
@@ -43,7 +44,7 @@ I am 28 years old, I am a fullstack developer with a background in systems admin
 
 Always eager to continue learning and informed of the news about web development.
 
-<p> <img  align='left' width='200px' height='200px' src='tenis-player-color.png'> </p>
+
 
 ### Programming Knowledge
 
