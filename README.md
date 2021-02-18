@@ -26,9 +26,7 @@ Always eager to continue learning and informed of the news about web development
 </p>
 
 <br>
-<br>
-<br>
-<br>
+
 
 
 ### Things I code with
