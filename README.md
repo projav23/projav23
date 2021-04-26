@@ -61,6 +61,6 @@ const webDevelopment = {
 
 
 ### Cool Projects
-[👉 Space invaders Star Wars Theme](https://github.com/projav23/webproject)<br>
+[👉 Space invaders Star Wars Theme](https://projav23.github.io/GameProject/)<br>
 [👉 App projects with HBS about tennis & paddle matches](https://together-ironhack.herokuapp.com/) <br>
 [👉 Roomies web app](https://myroomies.netlify.app/)
